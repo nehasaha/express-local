@@ -2,6 +2,9 @@
   "name": "express-local",
   "version": "1.0.0",
   "description": "Hello World Express App",
+  "engines": {
+    "node": "6.10.3"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
